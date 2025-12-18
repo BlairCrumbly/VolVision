@@ -66,7 +66,7 @@ before this, get your webcam on and ensure its connected, be ready to get your h
 ```
 & .\venv\Scripts\Activate.ps1
 ```
-if successfull it will tuurn into 
+if successfull it will turn into 
 ```
 (venv) your/path/here
 ```
