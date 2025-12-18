@@ -85,23 +85,15 @@ capture = cv2.VideoCapture(0)
 ```
 ### Camera Index Test Script
 
-If you’re unsure which camera index your webcam uses, run the following script to find the correct one:
+If you’re unsure which camera index your webcam uses run the **test_camera.py** script to find the correct one
+
+Run it with (while in your venv):
 
 ```
-import cv2
-
-for i in range(5):
-    cap = cv2.VideoCapture(i)
-    if cap.isOpened():
-        print(f"Camera index {i} is available")
-        cap.release()
+python .\test_camera.py
 ```
-Run it with:
+Sit tight! It takes a second.
 
-```
-python test_camera.py
-
-```
 Use the index that prints as available and update the specified line accordingly
 
 enjoy! :D
