@@ -4,6 +4,13 @@
 
 *For Windows*
 
+
+## Demo
+
+![Demo](/giphy.mp4)
+
+
+
 ---
 
 ## ✨ Features
