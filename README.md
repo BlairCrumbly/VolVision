@@ -7,7 +7,7 @@
 
 ## Demo
 
-![Demo](giphy.mp4)
+![Demo](giphy-ezgif.com-crop.gif)
 
 
 
