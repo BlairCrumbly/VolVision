@@ -8,7 +8,7 @@
 ## Demo
 
 
-![Demo GIF](/images/giphy-ezgif.com-crop.gif)
+![Demo GIF](images/giphy-ezgif.com-crop.gif)
 
 
 ---
